@@ -3,6 +3,9 @@
 Using websockets and react and localstorage. Plays youtube videos without needing to refresh or interact with browser. Videos are added instantly from your twitch chat. Pretty cool little thing to have fun with your small to moderate community.
 
 
+![image](https://github.com/Gibigbig/media-share-public/assets/24195190/81dfe12c-1d21-4005-8c86-21349c1524b7)
+
+
 
 # Known issues
 
