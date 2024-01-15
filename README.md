@@ -1,4 +1,4 @@
-# Media share for your twitch audiience
+# Media share for your twitch audience
 
 Using websockets and react and localstorage. Plays youtube videos without needing to refresh or interact with browser. Videos are added instantly from your twitch chat. Pretty cool little thing to have fun with your small to moderate community.
 
