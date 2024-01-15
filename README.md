@@ -5,6 +5,14 @@ Using websockets and react and localstorage. Plays youtube videos without needin
 
 ![image](https://github.com/Gibigbig/media-share-public/assets/24195190/81dfe12c-1d21-4005-8c86-21349c1524b7)
 
+# Features
+
+- Integrated twitch chat
+- See the user who uploaded the video at the bottom
+- Skip video if too long or annoying or TOS
+- Suports youtube only currently
+- Instant video sharing to stream to your community once they post a youtube link in chat. 
+
 
 
 # Known issues
